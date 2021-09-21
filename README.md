@@ -7,13 +7,14 @@
 - 🔭 I'm working as a Graduate Research Assistant in [```UF ESSIE Department```](https://www.essie.ufl.edu/ ).
 - 🔭  I’m currently researching on emotion detection using speech and text !
 - 🌱  I like to write ✍ blogs based on Machine Learning on Medium. Check out my medium profile [Here](https://adityadutt.medium.com/). 
-- Check out my personal github repository [here](https://github.com/AdityaDutt)
 
 #### Connect with me:
 
 [<img align="left" alt="adityadutt.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Aditya Dutt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aditya Dutt | Medium" width="102px" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png" />][medium]
+
+Check out my personal github repository [here](https://github.com/AdityaDutt)
 
 <br />
 
