@@ -13,7 +13,9 @@
 [<img align="left" alt="adityadutt.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Aditya Dutt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aditya Dutt | Medium" width="102px" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png" />][medium]
+
 <br />
+
 Check out my personal github repository [here](https://github.com/AdityaDutt)
 
 <br />
