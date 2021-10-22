@@ -50,9 +50,6 @@ Check out my personal github repository [here](https://github.com/AdityaDutt)
 <br />
 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/1" alt="Recent Article 1"> 
-<br />
-
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/2" alt="Recent Article 2"> 
 
