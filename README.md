@@ -46,6 +46,16 @@ Check out my personal github repository [here](https://github.com/AdityaDutt)
 
 #### Check out my latest blogs on medium :
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/3" alt="Recent Article 3"> 
+
+<br />
+
+
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/4" alt="Recent Article 4"> 
+
+<br />
+
+   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/0" alt="Recent Article 0"> 
 <br />
 
@@ -56,14 +66,6 @@ Check out my personal github repository [here](https://github.com/AdityaDutt)
 <br />
 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/3" alt="Recent Article 3"> 
-
-<br />
-
-
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/4" alt="Recent Article 4"> 
-
-<br />
 
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=duttaditya&show_icons=true&theme=radical)
